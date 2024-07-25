@@ -50,7 +50,7 @@ const ProjectCard = ({ title, description, link, video }) => (
 const Projects = () => {
   return (
     <section id="projects" className="py-24 bg-white text-black">
-      <h2 className="text-4xl font-bold text-center mb-8 text-cyan-400 py-8">My Projects</h2>
+      <h2 className="text-4xl font-bold text-center mb-8 text-cyan-400 py-8">Projects</h2>
       <div className="bg-black text-white overflow-x-auto flex space-x-6 px-6 py-8">
         {projects.map((project, index) => (
           <ProjectCard
