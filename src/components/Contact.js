@@ -3,7 +3,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faLinkedin, faGithub, faTwitter } from '@fortawesome/free-brands-svg-icons';
 
 const socialLinks = [
-  { href: 'https://www.linkedin.com/in/shanjay-athithya-921852241/', icon: faLinkedin },
+  { href: 'https://www.linkedin.com/in/shanjay-athithya-g-921852241/', icon: faLinkedin },
   { href: 'https://github.com/shanjay-athithya', icon: faGithub },
   { href: 'https://x.com/shanjay_aadhi', icon: faTwitter },
 ];
