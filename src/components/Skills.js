@@ -7,9 +7,9 @@ const skills = [
   'Next.js',
   'Django',
   "SQLite",
+  'Firebase',
   'HTML',
-  'CSS',
-  'Tailwind CSS',
+  'CSS /Tailwind CSS',
   'Git',
 ];
 
